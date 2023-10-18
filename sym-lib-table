@@ -1,4 +1,6 @@
-
 (sym_lib_table
-  (lib (name keyboard_parts)(type Legacy)(uri ${KIPRJMOD}/kicad_lib_tmk/keyboard_parts.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "keyboard_parts")(type "Legacy")(uri "${KIPRJMOD}/kicad_lib_tmk/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${KIPRJMOD}/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids.lib")(options "")(descr ""))
+  (lib (name "OldMx_Alps_Hybrid")(type "Legacy")(uri "${KIPRJMOD}/OldMX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
 )
